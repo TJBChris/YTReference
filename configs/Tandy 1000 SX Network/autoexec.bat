@@ -1,0 +1,16 @@
+@ECHO OFF
+PROMPT $p$g
+PATH C:\DOS;C:\DESK
+SET TEMP=C:\TEMP
+SET DMCONFIG=C:\DESK
+REM C:\SMRTWTCH\SMWCLOCK A
+DOSKEY
+
+REM Network - Get an IP and the time from Google NTP
+CALL TCPNET.BAT
+
+REM DeskMate - Commented out for now.
+REM CD \DESK
+REM DESK.EXEÿ
+REM CD \
+
