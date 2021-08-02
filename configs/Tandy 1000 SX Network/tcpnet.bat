@@ -10,3 +10,7 @@ SET MTCPCFG=c:\net\mtcp.cfg
 c:\net\tcp\dhcp
 set PATH=%PATH%;C:\NET\TCP
 sntp -set 216.239.35.0
+
+REM run DHCP again to update the date in the lease...
+REM otherwise it'll think the lease is expired
+C:\NET\TCP\DHCP
