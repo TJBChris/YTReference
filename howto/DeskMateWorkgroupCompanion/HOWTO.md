@@ -31,7 +31,7 @@ deskwork.zip
 dmlink.zip (from this GitHub repo)
 
 ### Files you'll need to find according to your version of DOS
-(Note that some versions of DOS include these files, others have one or more of them on Supplemental disks, and yet others may not include one or both of them.  You may have to get clever with copies from older DOS versions and SETVER.)
+(Note that some versions of DOS include these files, others have one or more of them on Supplemental disks, and yet others may not include one or both of them.  You may have to get clever with copies from older DOS versions and SETVER.)<br/>
 print.com
 share.exe
 
