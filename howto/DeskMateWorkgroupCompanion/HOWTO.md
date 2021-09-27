@@ -12,7 +12,7 @@ You can find the necessary software on tvdog's Tandy 1000 Archive: http://www.ol
 * The DeskMate Workgroup Companion software.
 * Software/hardware connectivity to get the necessary files onto your Tandy system.
 * A way to unzip the files from tvdog's archive onto your system (or extract them before you transfer if needed).
-* Copies of **SHARE.EXE** and **PRINT.COM** for your version of MS-DOS.  Becuase of the wide variety of configurations, I can't point you to any particular copies.  Be prepared to use SETVER if you need to (particularly for PRINT.COM).  If you're going to use version-mismatched files, you'll need MS-DOS 5.0 or later.
+* Copies of **SHARE.EXE** and **PRINT.EXE** for your version of MS-DOS.  Becuase of the wide variety of configurations, I can't point you to any particular copies.  Be prepared to use SETVER if you need to (particularly for PRINT.EXE).  If you're going to use version-mismatched files, you'll need MS-DOS 5.0 or later.
 
 ## Download the necessary files
 
@@ -32,7 +32,7 @@ dmlink.zip (from this GitHub repo)
 
 ### Files you'll need to find according to your version of DOS
 (Note that some versions of DOS include these files, others have one or more of them on Supplemental disks, and yet others may not include one or both of them.  You may have to get clever with copies from older DOS versions and SETVER.)<br/>
-print.com
+print.exe
 share.exe
 
 ## Install DeskMate Workgroup Companion
