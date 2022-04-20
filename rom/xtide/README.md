@@ -1,4 +1,6 @@
-This folder contains ROM images for the XTIDE Universal BIOS images I have.  
+# XTIDE Universal BIOS ROM images for Tandy Computers
+
+This folder contains ROM images for the XTIDE Universal BIOS images for some of my Tandy computers.
 
 Images:
 
