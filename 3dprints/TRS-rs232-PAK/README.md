@@ -1,4 +1,4 @@
-# TRS-rs232-PAK** 
+# TRS-rs232-PAK
 
 A Tandy FD-501-style shell for Ian Mavric's reproduction of the Deluxe RS-232 Pak for the Tandy Color Computer series of systems.  This is actually a modification of *Brenda Make*'s design on Thingiverse, called *Handy Color Computer CoCo SDC FD-501 Style Case*.  You can find it here:  https://www.thingiverse.com/thing:4880775.  
 
