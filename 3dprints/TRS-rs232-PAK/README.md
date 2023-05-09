@@ -4,6 +4,9 @@ A Tandy FD-501-style shell for Ian Mavric's reproduction of the Deluxe RS-232 Pa
 
 It's licensed under the Creative Commons license.  See LICENSE.TXT.
 
+If you're interested in buying Ian Mavric's Deluxe RS-232 Pak reproduction, you can find his web site here:
+http://members.iinet.net.au/~ianmav/trs80/cocos.htm
+
 ## Changes To The Original Design
 
 I made four main changes:
