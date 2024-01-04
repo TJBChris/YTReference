@@ -12,4 +12,6 @@ Honestly, for those designs where I've modified someone else's design, you're pr
 
 ## Projects
 
+- **FiveMegDiskSystemParts** - Chassis parts for the TRS-80/Tandy Five, Twelve, Fifteen, and Thirty-Five Meg disk system chassis/enclosures.  
+
 - **TRS-rs232-PAK** - A Tandy FD-502-style shell for Ian Mavric's reproduction of the Deluxe RS-232 Pak for the Tandy Color Computer series of systems.  This is actually a modification of *Brenda Make*'s design on Thingiverse, called *Handy Color Computer CoCo SDC FD-501 Style Case*.  You can find it here:  https://www.thingiverse.com/thing:4880775.  It's licensed under the Creative Commons license.
