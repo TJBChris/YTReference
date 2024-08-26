@@ -19,7 +19,7 @@ There are three STL files here:
 
 - The top of the enclosure - **enclosure.stl**.
 - The base of the enclosure, onto which the DREM will sit - **base.stl**.  
-- The Tandy nameplate/badge - **badge.stl**
+- The Tandy nameplate/badge - **tandybadge.stl**
 
 It's strongly recommended that you print each part separately unless you have a very large printer.  Even if you print the base and enclosure top together, you should print the badge separately as it requires different settings to come out looking decent.
 
