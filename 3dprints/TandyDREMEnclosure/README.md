@@ -96,6 +96,7 @@ To assemble the enclosure, perform the following steps:
 1. Remove any supports from the top of the enclosure.  Be sure not to miss the badge indentation.
 1. Apply three to four small drops of super glue into the badge indent on the top of the enclosure.
 1. Insert the painted badge and firmly hold it in place for about 30-40 seconds.
+1. Install the rubber feet on the bottom of the enclosure (near the screw holes).
 1. Attach the cables to the DREM.
 1. Place the DREM onto the base, running the DREM's cables through the channel on the back of the base.  Place the top of the enclosure over the DREM's cables, behind the base. ![DREM On Base](pic/assemble1.jpg)
 1. Slide the top of the enclosure over the base, aligning the back of the base with the end of the top case.  Ensure the DREM protrudes from the front a little.  You'll slide it into its final position in a later step.  ![DREM partially enclosed.](pic/assemble2.jpg)
