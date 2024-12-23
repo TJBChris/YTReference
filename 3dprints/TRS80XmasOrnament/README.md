@@ -1,6 +1,6 @@
 # TRS80XmasOrnament
 
-This is a Christmas Ornament I designed based on the vintage TRS-80 nameplates used on earlier TRS-80 systems.  It's size and layout is based on that of the TRS-80 Model II/16 nameplates.  
+This is a Christmas Ornament I designed based on the vintage TRS-80 nameplates used on earlier TRS-80 systems.  Its size and layout is based on that of the TRS-80 Model II/16 nameplates.  
 
 It's licensed under the Creative Commons license.  See LICENSE.TXT.
 
