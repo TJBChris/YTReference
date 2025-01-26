@@ -12,6 +12,8 @@ Honestly, for those designs where I've modified someone else's design, you're pr
 
 ## Projects
 
+- **RadioShackSign** - Make your own Radio Shack sign in the font of the 70s-90s logo (the only correct logo in my mind).
+
 - **TRS80XmasOrnament** - Add style to your Christmas tree with my TRS-80 Christmas ornament.  The perfect way to gussie up your holiday season!
 
 - **FiveMegDiskSystemParts** - Chassis parts for the TRS-80/Tandy Five, Twelve, Fifteen, and Thirty-Five Meg disk system chassis/enclosures.  
