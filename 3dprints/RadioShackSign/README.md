@@ -10,7 +10,7 @@ The following materials are required:
 
 - A 3D printer or access to a 3D printing service such as CraftCloud or ShapeWays.  I used my own 3D printer, a **Bambu Labs X1 Carbon**.
 - Filament.  I use the following filament:
-    - Badge: **Hatchbox 3D PLA** Printer Filament - Red - **P/N: 3D PLAP-1KG1.75-RED**
+    - **Hatchbox 3D PLA** Printer Filament - Red - **P/N: 3D PLAP-1KG1.75-RED**
 
 ## Printing the letters
 
