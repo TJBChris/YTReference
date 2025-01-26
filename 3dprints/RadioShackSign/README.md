@@ -32,6 +32,7 @@ If you want hollow letters with no backing (for a lighted sign, perhaps), your h
 1. Adjust the height as well...I used 50 mm.
 1. Set the infill to None (0%).
 1. Adjust your wall thickness as-desired.  I used 2 mm.
+1. Set the number of top layers to 0.
 1. Slice.
 1. Print.
 1. Rinse, lather and repeat for the remaining letters.
