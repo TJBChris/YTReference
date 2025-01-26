@@ -28,7 +28,7 @@ If you want hollow letters with no backing (for a lighted sign, perhaps), your h
 1. Create a new project in your slicer.
 1. Import one or more letters (depending on the size of the letters and your printer's volume).
 1. Flip the letters 180 degrees on the Z axis (so the faces of the letters are on the print bed).
-1. Magnify the length and width letters to your desired size.  I streched mine to 500% of their original size.
+1. Magnify the length and width letters to your desired size.
 1. Adjust the height as well...I used 50 mm.
 1. Set the infill to None (0%).
 1. Adjust your wall thickness as-desired.  I used 2 mm.
